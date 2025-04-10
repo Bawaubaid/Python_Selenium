@@ -1,6 +1,6 @@
 # Python Selenium Automation Framework
 
-This is a modular, data-driven web automation framework built using **Python**, **Selenium**, and **PyTest**. It follows best practices including Page Object Model (POM), configuration management, logging, and test reporting.
+This is a modular, data-driven web automation framework built using **Python**, **Selenium**, and **PyTest**. It follows best practices, including Page Object Model (POM), configuration management, logging, and test reporting.
 
 ## Project Structure
 
@@ -59,4 +59,4 @@ Update the `config/global.properties` file for browser or credentials.
    pytest -v tests/
 
 ## Reporting
-   This project will generate index.html report using pytest-html
+   This project will generate reports.html report using pytest-html, and if the directory is not present, it will create automatically.
