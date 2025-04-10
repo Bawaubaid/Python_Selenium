@@ -12,7 +12,7 @@ This is a modular, data-driven web automation framework built using **Python**, 
 │   ├── base_page.py            # Common reusable page methods
 │   └── login_page.py           # Page Object for Login page
 |── reports/
-|   └── index.html 
+|   └── reports.html 
 ├── tests/
 │   └── test_login.py           # Test cases for Login functionality
 ├── utils/
